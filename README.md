@@ -7,6 +7,16 @@
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
 
 ## AI Video Generation: Prompting Techniques and Impact
+
+## prompt 
+
+1.make a video of someone jumping off of a plane then landing in a car what takes off flying back to the plane
+
+2.A white mother cat is riding a small bicycle or motorbike along a sunny rural road, surrounded by a lush green mango orchard. She is sitting upright, confidently holding the handlebars. In the front basket, her two kittens are riding together — one is white and the other is black, both looking curious and excited. There are no bags or objects hanging from the bike — they are on their way to pick mangoes. The scene is bright and cheerful, with dappled sunlight filtering through mango trees lining the road. A few mangoes hang from low branches nearby, hinting at the destination. The vibe is adventurous and heartwarming, like a family outing.
+
+3.two puppies running down a grassy hill in the sun
+## link
+ https://drive.google.com/drive/folders/1BwiGmEehXktSLb22xfDW8kFVY-wxeAOk
 # Introduction
 AI-driven video generation leverages advanced machine learning models to create dynamic visual content based on text prompts. These prompts act as instructions, guiding the AI in selecting elements like scenes, motion, and style. The structure and detail of prompts play a critical role in determining the final video's quality, coherence, and aesthetic consistency.
 # Prompting techniques generally fall into two categories:
