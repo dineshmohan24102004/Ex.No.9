@@ -10,19 +10,24 @@ To demonstrate the ability of text-to-Video generation tools to reproduce an exi
 
 ## prompt 
 
-1.make a video of someone jumping off of a plane then landing in a car what takes off flying back to the plane
 
-2.A white mother cat is riding a small bicycle or motorbike along a sunny rural road, surrounded by a lush green mango orchard. She is sitting upright, confidently holding the handlebars. In the front basket, her two kittens are riding together — one is white and the other is black, both looking curious and excited. There are no bags or objects hanging from the bike — they are on their way to pick mangoes. The scene is bright and cheerful, with dappled sunlight filtering through mango trees lining the road. A few mangoes hang from low branches nearby, hinting at the destination. The vibe is adventurous and heartwarming, like a family outing.
 
-3.two puppies running down a grassy hill in the sun.
+1.A white mother cat is riding a small bicycle or motorbike along a sunny rural road, surrounded by a lush green mango orchard. She is sitting upright, confidently holding the handlebars. In the front basket, her two kittens are riding together — one is white and the other is black, both looking curious and excited. There are no bags or objects hanging from the bike — they are on their way to pick mangoes. The scene is bright and cheerful, with dappled sunlight filtering through mango trees lining the road. A few mangoes hang from low branches nearby, hinting at the destination. The vibe is adventurous and heartwarming, like a family outing.
 
-4.Create a 30-second advertisement video for Cetaphil Face Wash featuring only male characters,
+
+
+2.Create a 30-second advertisement video for Cetaphil Face Wash featuring only male characters,
 targeting young men with sensitive or acne-prone skin. Start with a close-up of a young man looking at his irritated
 skin in the mirror. Show him applying Cetaphil Face Wash with a smooth lather, followed by water rinsing off easily.
 Include visuals of calming ingredients like aloe vera and water splashes. Show his skin
 visibly clearer and healthier after use. End with him confidently stepping out, smiling. Voiceover:
 ‘Real care for real skin. Cetaphil – gentle, effective, and made for men.’ Include soft, modern background
 music and display the Cetaphil logo at the end.
+
+3.make a video of someone jumping off of a plane then landing in a car what takes off flying back to the plane.
+
+4.two puppies running down a grassy hill in the sun.
+
 ## link
  https://drive.google.com/drive/folders/1BwiGmEehXktSLb22xfDW8kFVY-wxeAOk
 # Introduction
